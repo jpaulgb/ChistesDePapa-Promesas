@@ -10,7 +10,5 @@ Try: Catch si no se cumplió.
 
 Promesas encadenadas para más adelante.
 
----
-
 API de:
 https://icanhazdadjoke.com/api
